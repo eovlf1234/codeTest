@@ -1,3 +1,6 @@
+package codeTest;
+
+import java.util.Scanner;
 
 public class SWEA_3431 {
 	public static void main(String[] args) {

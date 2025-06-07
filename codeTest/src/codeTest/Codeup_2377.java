@@ -1,3 +1,4 @@
+package codeTest;
 
 public class Codeup_2377 {
 	public static void main(String[] args) {
